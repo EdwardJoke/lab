@@ -1,0 +1,5 @@
+/Users/edwardxie/project/hoz/build/CMakeFiles/hoz.dir
+/Users/edwardxie/project/hoz/build/CMakeFiles/edit_cache.dir
+/Users/edwardxie/project/hoz/build/CMakeFiles/rebuild_cache.dir
+/Users/edwardxie/project/hoz/build/deps/glaze/CMakeFiles/edit_cache.dir
+/Users/edwardxie/project/hoz/build/deps/glaze/CMakeFiles/rebuild_cache.dir

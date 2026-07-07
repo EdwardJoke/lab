@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/edwardxie/project/hoz/build/cmake_install.cmake",
+		"/Users/edwardxie/project/hoz/build/deps/glaze/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/hoz.dir/src/main.cpp.o CMakeFiles/hoz.dir/src/resolver.cpp.o CMakeFiles/hoz.dir/src/commands.cpp.o -o hoz

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/edwardxie/project/hoz/build",
+  "command": "/usr/bin/c++ -DHOZ_COMMIT_HASH=\\\"f2cd707-dirty\\\" -DHOZ_VERSION=\\\"0.1.0\\\" -isystem /Users/edwardxie/project/hoz/deps/glaze/include -O3 -DNDEBUG -std=c++23 -Wall -Wextra -Wpedantic -Wno-missing-braces -o CMakeFiles/hoz.dir/src/main.cpp.o -c /Users/edwardxie/project/hoz/src/main.cpp",
+  "file": "/Users/edwardxie/project/hoz/src/main.cpp",
+  "output": "CMakeFiles/hoz.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/edwardxie/project/hoz/build",
+  "command": "/usr/bin/c++ -DHOZ_COMMIT_HASH=\\\"f2cd707-dirty\\\" -DHOZ_VERSION=\\\"0.1.0\\\" -isystem /Users/edwardxie/project/hoz/deps/glaze/include -O3 -DNDEBUG -std=c++23 -Wall -Wextra -Wpedantic -Wno-missing-braces -o CMakeFiles/hoz.dir/src/resolver.cpp.o -c /Users/edwardxie/project/hoz/src/resolver.cpp",
+  "file": "/Users/edwardxie/project/hoz/src/resolver.cpp",
+  "output": "CMakeFiles/hoz.dir/src/resolver.cpp.o"
+},
+{
+  "directory": "/Users/edwardxie/project/hoz/build",
+  "command": "/usr/bin/c++ -DHOZ_COMMIT_HASH=\\\"f2cd707-dirty\\\" -DHOZ_VERSION=\\\"0.1.0\\\" -isystem /Users/edwardxie/project/hoz/deps/glaze/include -O3 -DNDEBUG -std=c++23 -Wall -Wextra -Wpedantic -Wno-missing-braces -o CMakeFiles/hoz.dir/src/commands.cpp.o -c /Users/edwardxie/project/hoz/src/commands.cpp",
+  "file": "/Users/edwardxie/project/hoz/src/commands.cpp",
+  "output": "CMakeFiles/hoz.dir/src/commands.cpp.o"
+}
+]
